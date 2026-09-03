@@ -1,2 +1,4 @@
 *.code-workspace
 data.py
+python
+.stop_signal
